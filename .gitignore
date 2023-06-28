@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
-branch main + test branch
+<<<<<<< HEAD
+
+merge failed
 # Log file
 *.log
 
