@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
 git pull
+git merge testBranch2
 # Log file
 *.log
 
