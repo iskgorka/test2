@@ -1,5 +1,11 @@
 # Compiled class file
 *.class
+.idea
+out
+
+# IntelliJ
+*.iml
+
 git pull
 git merge testBranch2
 # Log file
