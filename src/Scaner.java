@@ -9,5 +9,6 @@ public class Scaner {
         System.out.println("Where are you live, " + name + " ?");
         String address = sc.nextLine();
         System.out.println("I live in " + address + " city");
+        System.out.println("I don`t know what to do");
     }
 }
